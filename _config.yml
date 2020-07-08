@@ -27,7 +27,7 @@ description: "chinese/Shanghai" # this means to ignore newlines until "Language 
 
 ## => Language and Timezone
 ##############################
-lang: "en" # the language of your site, default as "en"
+lang: "ch" # the language of your site, default as "en"
 timezone: "Asia/Shanghai" # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -37,7 +37,7 @@ author:
   type      : "person" # "person" (default), "organization"
   name      : "二十四番花信风"
   url       : "https://ak7490.github.io"
-  avatar    : "ae768.jpg"# path or url of avatar image (square)
+  avatar    : "https://avatars2.githubusercontent.com/u/40849929?s=460&u=e92f1003aa1d9ec8cce0f2e153591a104ccb80d2&v=4"# path or url of avatar image (square)
   bio       : "喜欢你，柳动蝉鸣，日落朝夕，不能自已。"
   E-mail     : "tillyue@hotmail.com"
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
