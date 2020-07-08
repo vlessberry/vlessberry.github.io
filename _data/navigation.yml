@@ -1,38 +1,28 @@
 header:
-  - titles:    
-    en      : &EN       "Linux"
-    zh      : *ZH_HANS  "Linux"
-    url:      /docs/landing.html
-  
-  - titles:    
+  - titles:
+      # @start locale config
       en      : &EN       Python
-      zh      : *ZH_HANS  Python
-    url:        /docs/samples.html
-  
-  - titles:    
-      en      : &EN       ISEC
-      zh      : *ZH_HANS  信息安全
-    url:       /_layouts/page.html
-  
-  - titles:    
-      en      : &EN       CERT-item
-      zh      : *ZH_HANS  应急响应
-    url:        /_layouts/base.html
-  
-  - titles:    
-      en      : &EN       Web-SEC
-      zh      : *ZH_HANS  Web安全
-    url:       /_layouts/404.html
-  
-  - titles:    
-      en      : &EN       Web-SEC
-      zh      : *ZH_HANS  Web安全
-    url:       /_layouts/none.html
-  
-  - titles:    
-      en      : &EN       Mobile-SEC
-      zh      : *ZH_HANS  移动安全
-    url:      /_layouts/home.html
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  Python
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  Python
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       Python
+      ko-KR   : *KO
+      fr      : &FR       Python
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /archive.html
 
   - titles:
       # @start locale config
