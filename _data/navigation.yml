@@ -1,28 +1,40 @@
 header:
-  -title:     Linux
-    url:
-  -title:     Linux
-    url:      
-  -title:     Python
-    url:
-  -title:     Python
-    url:
-  -title:     信息安全
-    url:
-  -title:     ISEC
-    url:      
-  -title:     应急响应
-    url:
-  -title:     CERT
-    url:    
-  -title:     web安全
-    url:
-  -title:     Web-sec
-    url:      
-  -title:     移动安全
-    url:
-  -title:     Mobile-sec
-    url:      
+  - titles:     Linux
+     url:
+  
+  
+  - titles:     Linux
+     url:      
+  
+  - titles:     Python
+     url:
+  
+  - titles:     Python
+     url:
+  
+  - titles:     信息安全
+     url:
+  
+  - titles:     ISEC
+     url:      
+  
+  - titles:     应急响应
+     url:
+  
+  - titles:     CERT
+     url:    
+  
+  - titles:     web安全
+     url:
+  
+  - titles:     Web-sec
+     url:      
+  
+  - titles:     移动安全
+     url:
+  
+  - titles:     Mobile-sec
+     url:      
 
   - titles:
       # @start locale config
