@@ -2,37 +2,37 @@ header:
   - titles:     
       en      : &EN       Linux
       zh      : *ZH_HANS  Linux
-    url:      
+    url:      /docs/landing.html
   
   - titles:     
       en      : &EN       Python
       zh      : *ZH_HANS  Python
-    url:
+    url:        /docs/samples.html
   
   - titles:     
       en      : &EN       ISEC
       zh      : *ZH_HANS  信息安全
-    url:  
+    url:       /_layouts/page.html
   
   - titles:     
       en      : &EN       CERT-item
       zh      : *ZH_HANS  应急响应
-    url: 
+    url:        /_layouts/base.html
   
   - titles:     
       en      : &EN       Web-SEC
       zh      : *ZH_HANS  Web安全
-    url:
+    url:       /_layouts/404.html
   
   - titles:     
       en      : &EN       Web-SEC
       zh      : *ZH_HANS  Web安全
-    url:      
+    url:       /_layouts/none.html
   
   - titles:     
       en      : &EN       Mobile-SEC
       zh      : *ZH_HANS  移动安全
-    url:      
+    url:      /_layouts/home.html
 
   - titles:
       # @start locale config
