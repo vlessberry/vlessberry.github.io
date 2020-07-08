@@ -1,40 +1,38 @@
 header:
-  - titles:     Linux
-     url:
+  - titles:     
+      en      : &EN       Linux
+      zh      : *ZH_HANS  Linux
+    url:      
   
+  - titles:     
+      en      : &EN       Python
+      zh      : *ZH_HANS  Python
+    url:
   
-  - titles:     Linux
-     url:      
+  - titles:     
+      en      : &EN       ISEC
+      zh      : *ZH_HANS  信息安全
+    url:  
   
-  - titles:     Python
-     url:
+  - titles:     
+      en      : &EN       CERT-item
+      zh      : *ZH_HANS  应急响应
+    url: 
   
-  - titles:     Python
-     url:
+  - titles:     
+      en      : &EN       Web-SEC
+      zh      : *ZH_HANS  Web安全
+    url:
   
-  - titles:     信息安全
-     url:
+  - titles:     
+      en      : &EN       Web-SEC
+      zh      : *ZH_HANS  Web安全
+    url:      
   
-  - titles:     ISEC
-     url:      
-  
-  - titles:     应急响应
-     url:
-  
-  - titles:     CERT
-     url:    
-  
-  - titles:     web安全
-     url:
-  
-  - titles:     Web-sec
-     url:      
-  
-  - titles:     移动安全
-     url:
-  
-  - titles:     Mobile-sec
-     url:      
+  - titles:     
+      en      : &EN       Mobile-SEC
+      zh      : *ZH_HANS  移动安全
+    url:      
 
   - titles:
       # @start locale config
