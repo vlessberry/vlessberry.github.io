@@ -1,7 +1,7 @@
 header:
   - titles:    
-      en      : &EN       "Linux"
-      zh      : *ZH_HANS  "Linux"
+    en      : &EN       "Linux"
+    zh      : *ZH_HANS  "Linux"
     url:      /docs/landing.html
   
   - titles:    
