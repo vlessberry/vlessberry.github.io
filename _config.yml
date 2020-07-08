@@ -36,7 +36,7 @@ timezone: "Asia/Shanghai" # see https://en.wikipedia.org/wiki/List_of_tz_databas
 author:
   type      : "person pad" # "person" (default), "organization"
   name      : "AK74"
-  url       : "hhttps://ak74.github.io"
+  url       : "https://ak7490.github.io"
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
