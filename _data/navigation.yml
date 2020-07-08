@@ -1,13 +1,13 @@
 header:
- - titles:
+  - titles:
       # @start locale config
-      en      : &EN      Archive
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS  归档
+      zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       zh-Hant : &ZH_HANT  歸檔
@@ -22,35 +22,9 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-   url: /archive.html
- - titles:
- 
-      # @start locale config
-      en      : &EN       Search
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  
-      zh      : *ZH_HANS  搜索
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       
-      ko-KR   : *KO
-      fr      : &FR       search
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-     # @end locale config
-     url: /search.html
-     
- - titles:
+    url: /archive.html
 
+  - titles:
       # @start locale config
       en      : &EN       About
       en-GB   : *EN
@@ -58,7 +32,7 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS  关于
+      zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       zh-Hant : &ZH_HANT  關於
@@ -73,5 +47,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html  
-
+    url: /about.html
