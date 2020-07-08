@@ -1,5 +1,5 @@
 header:
-  - titles:
+ - titles:
       # @start locale config
       en      : &EN      Archive
       en-GB   : *EN
@@ -22,9 +22,9 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /archive.html
-    
+   url: /archive.html
  - titles:
+ 
       # @start locale config
       en      : &EN       Search
       en-GB   : *EN
@@ -46,10 +46,11 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      # @end locale config
-    url: /search.html
+     # @end locale config
+     url: /search.html
+     
+ - titles:
 
-  - titles:
       # @start locale config
       en      : &EN       About
       en-GB   : *EN
@@ -72,4 +73,5 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: /about.html  
+
