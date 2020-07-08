@@ -1,35 +1,35 @@
 header:
-  - titles:     
-      en      : &EN       Linux
-      zh      : *ZH_HANS  Linux
+  - titles:    
+      en      : &EN       "Linux"
+      zh      : *ZH_HANS  "Linux"
     url:      /docs/landing.html
   
-  - titles:     
+  - titles:    
       en      : &EN       Python
       zh      : *ZH_HANS  Python
     url:        /docs/samples.html
   
-  - titles:     
+  - titles:    
       en      : &EN       ISEC
       zh      : *ZH_HANS  信息安全
     url:       /_layouts/page.html
   
-  - titles:     
+  - titles:    
       en      : &EN       CERT-item
       zh      : *ZH_HANS  应急响应
     url:        /_layouts/base.html
   
-  - titles:     
+  - titles:    
       en      : &EN       Web-SEC
       zh      : *ZH_HANS  Web安全
     url:       /_layouts/404.html
   
-  - titles:     
+  - titles:    
       en      : &EN       Web-SEC
       zh      : *ZH_HANS  Web安全
     url:       /_layouts/none.html
   
-  - titles:     
+  - titles:    
       en      : &EN       Mobile-SEC
       zh      : *ZH_HANS  移动安全
     url:      /_layouts/home.html
