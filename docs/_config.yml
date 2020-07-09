@@ -17,10 +17,10 @@
 ## => Site Settings
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://ak7490.github.io/
-baseurl : /ak7490.github.io
-title   : TeXt Theme
+highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : http://github.com/ak7490.github.io
+baseurl : 
+title   : the AK7490
 description: >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 
