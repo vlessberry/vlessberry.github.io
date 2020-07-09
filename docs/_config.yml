@@ -16,10 +16,10 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://tianqi.name
-baseurl : /jekyll-TeXt-theme
+text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : https://ak7490.github.io/
+baseurl : /ak7490.github.io
 title   : TeXt Theme
 description: >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -27,7 +27,7 @@ description: >
 
 ## => Language and Timezone
 ##############################
-lang: en # the language of your site, default as "en"
+lang: zh # the language of your site, default as "en"
 timezone: Asia/Shanghai
 
 
@@ -41,9 +41,9 @@ author:
   bio: >
     TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
     Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
+  E-mail    : tillyue@hotmail.com
   facebook  :
-  twitter   : kitian616
+  twitter   : 
   weibo     : 234695683
   googleplus: 101827554735084402671
   telegram  :
@@ -51,13 +51,13 @@ author:
   zhihu     :
   douban    :
   linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  github    : https://ak7490.github.io/
   npm       :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/jekyll-TeXt-theme
+repository: ak7490/ak7490.github.io
 repository_tree: master
 
 
@@ -65,9 +65,9 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : /test/ # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  home    : "/test/" # home layout url, "/" (default)
+  archive : "/archive.html" # "/archive.html" (default)
+  rss     : "/feed.xml" # "/feed.xml" (default)
 
 
 ## => Post
@@ -80,7 +80,7 @@ license: CC-BY-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
-  selectors: # "h1,h2,h3" (default)
+  selectors: "h1,h2,h3" # "h1,h2,h3" (default)
 
 
 ## => Markdown Enhancements
